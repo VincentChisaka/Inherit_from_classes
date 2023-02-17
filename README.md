@@ -1,0 +1,1 @@
+# Inherit_from_classes
